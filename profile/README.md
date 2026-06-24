@@ -25,7 +25,7 @@ Digital artists cataloguing a body of work and publishing portfolios. Generative
 
 ## Installation
 
-See the [documentation](https://cataloguecanvas.dev/documentation/install/) for install instructions.
+soon
 
 ## License
 

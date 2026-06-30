@@ -6,6 +6,8 @@ Unlike a repository or organized folder structure, CatalogueCanvas treats your w
 
 ## What's here
 
+- **[Documentation](https://cataloguecanvas.app/)** The deployed website
+
 This organization contains the source code and documentation for CatalogueCanvas:
 
 - **[CatalogueCanvas](https://github.com/ToroRojo-code/CatalogueCanvas)** — the application

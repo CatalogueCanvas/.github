@@ -6,12 +6,14 @@ Unlike a repository or organized folder structure, CatalogueCanvas treats your w
 
 ## What's here
 
-- **[Documentation](https://cataloguecanvas.app/)** The deployed website
+- **[Documentation](https://cataloguecanvas.app/)** 
+- **[Demo](https://cataloguecanvas.app/demo/)**
 
 This organization contains the source code and documentation for CatalogueCanvas:
 
 - **[CatalogueCanvas](https://github.com/ToroRojo-code/CatalogueCanvas)** — the application
 - **[cataloguecanvas-website](https://github.com/ToroRojo-code/cataloguecanvas-website)** — documentation and showcase site
+- **[cataloguecanvas-homeassistant-addon](https://github.com/CatalogueCanvas/cataloguecanvas-homeassistant-addon)** — Home Assistant add-on
 
 ## Features
 
@@ -27,7 +29,10 @@ Digital artists cataloguing a body of work and publishing portfolios. Generative
 
 ## Installation
 
-soon
+Docker is the easiest way to run it, even on a low-powered machine. Bare-metal installs also work on Linux, macOS, and Windows, but you'll need Python 3.11+, Node.js 22+, and `uv`.
+
+See the [full installation guide](https://cataloguecanvas.app/documentation/install/) for details.
+
 
 ## License
 
